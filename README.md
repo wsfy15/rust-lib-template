@@ -10,6 +10,8 @@ description about the crate
 $ cargo generate --git https://github.com/wsfy15/rust-lib-template
 ```
 
+You can rename `_github` directory as `.github` to fire a github Action.
+
 Have fun with this crate!
 
 ## License
